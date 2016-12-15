@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "F48DF9095BC9403DD4F9B64EC736F383D7EBEF96",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "F35C59402E4131609EC15013A493749CCF16CC55" : 9223372036854775807,
+    "F48DF9095BC9403DD4F9B64EC736F383D7EBEF96" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "5D862F06-9218-45B3-9C3B-34C5C8947249",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "F35C59402E4131609EC15013A493749CCF16CC55" : "",
+    "F48DF9095BC9403DD4F9B64EC736F383D7EBEF96" : "WaterCollectionViewDemo\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "WaterCollectionViewDemo",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "WaterCollectionViewDemo.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:youngTian\/ShaperlayerDemo",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "F35C59402E4131609EC15013A493749CCF16CC55"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:youngTian\/WaterCollectionViewDemo.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "F48DF9095BC9403DD4F9B64EC736F383D7EBEF96"
+    }
+  ]
+}
